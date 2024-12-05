@@ -13,3 +13,5 @@
 - **Dynamic Menu: Menu content can be easily updated through a configuration file or an API.
 - **Responsive Design: The menu is optimized for mobile and tablet devices, ensuring a seamless experience.
 - **User-Friendly Interface: Clean and simple interface for both users and restaurant owners.
+
+![QR-MenuAnasayfa-Personal-MicrosoftEdge2024-12-0521-00-41-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eaf29ffb-5106-46e7-aa7d-d7c8adba52d7)
