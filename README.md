@@ -1,17 +1,13 @@
-# Eğitim Projesi
 
-Bu proje, HTML, CSS ve Bootstrap kullanarak geliştirilmiş bir eğitim platformunu temsil etmektedir. 
+#QR Menu Project
+This project is a QR code-based digital menu solution designed for restaurants and cafes. Users can scan QR codes to easily access menus without the need for physical copies.
 
-## Proje Özeti
-
-- **Proje Adı**: Eğitim Projesi
-- **Teknolojiler**: HTML, CSS, Bootstrap
-- **Yapı**: Duyarlı tasarım, farklı cihazlarda uyumlu görüntü
-
-## Özellikler
-
-- Kullanıcı dostu arayüz
-- Duyarlı tasarım ile mobil uyumluluk
-- Bootstrap ile hızlı ve kolay stil uygulamaları
-
-![UdemigEducation-Personal-MicrosoftEdge2024-10-0617-16-39-ezgif com-crop](https://github.com/user-attachments/assets/06375f5b-3fa8-4306-8395-67c94fb971b8)
+#Project Overview
+Project Name: QR Menu Project
+Technologies Used: HTML, CSS, JavaScript
+Features: QR code scanning, dynamic menu management, responsive design
+#Features
+QR Code Scanning: Customers can scan a QR code to access the digital menu on their devices.
+Dynamic Menu: Menu content can be easily updated through a configuration file or an API.
+Responsive Design: The menu is optimized for mobile and tablet devices, ensuring a seamless experience.
+User-Friendly Interface: Clean and simple interface for both users and restaurant owners.
